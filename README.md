@@ -29,4 +29,4 @@ This app predicts the likelihood of diabetes based on clinical input. It uses an
 ## ✍️ Author
 
 **Noel Franck Kouadio**  
-*Data Scientist — AI for health equity*
+*Data Scientist 
