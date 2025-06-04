@@ -19,14 +19,14 @@ This app predicts the likelihood of diabetes based on clinical input. It uses an
 ##  Files Included
 
 ```
-├── app.py                     # Streamlit app
-├── diabetes_xgb_model.joblib  # Trained model
-├── scaler.joblib              # Trained scaler
-├── requirements.txt           # Dependencies
-└── README.md                  # Project documentation
+ app.py                     # Streamlit app
+ diabetes_xgb_model.joblib  # Trained model
+ scaler.joblib              # Trained scaler
+ requirements.txt           # Dependencies
+ README.md                  # Project documentation
 ```
 
-## ✍️ Author
+##  Author
 
 **Noel Franck Kouadio**  
 *Data Scientist 
